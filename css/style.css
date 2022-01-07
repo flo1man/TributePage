@@ -1,0 +1,96 @@
+#main-title{
+    font-size: 3.2rem;
+    margin-bottom: 1rem;
+    letter-spacing: 2px;
+}
+
+#sub-title{
+    margin: 20px;
+    padding: -25px;
+    font-size: 1.5rem;
+}
+
+#title{
+    text-align: center;
+}
+
+#image{
+    display: block;
+    margin-left: 7cm;    
+    width: 66%;
+}
+
+#img-div{
+    width: 100%;
+}
+
+#img-caption{
+    text-align: center;
+    font-size: 1.6rem;
+    margin-bottom: 6.2rem;
+}
+
+#headline{
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tribute-info{
+    max-width: 62rem;
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+
+#tribute-info ul{
+    list-style: none;
+    padding: 0 3rem;
+}
+
+#tribute-info li{
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 1.3rem;
+    background-color: #fff;
+  -webkit-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+
+#tribute-info li:hover {
+    background-color: #f1f1f1;
+  }
+
+#quote {
+    max-width: 55rem;
+    text-align: center;
+    margin: 3rem auto 4.5rem;
+    padding: 3rem;
+    position: relative;
+}
+  
+#quote #author {
+    position: absolute;
+    right: 4rem;
+    bottom: 0;
+}
+
+#link-box {
+    font-size: 1.4rem;
+    color: #eee;
+    background-color: #333333;
+    padding: 3rem;
+    text-align: center;
+  }
+  
+  #link-box h3 {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  #tribute-link {
+    color: cornflowerblue;
+  }
+  
+  #tribute-link:hover {
+    color: #4682f3;
+  }
